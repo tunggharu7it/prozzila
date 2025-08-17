@@ -1,6 +1,5 @@
 # Prozzila - A Project and Task Management System
 
-![Prozzila Logo](https://github.com/genetxf/prozzila/blob/main/images/prozilla_logo_motto%20n.svg)
 
 ## Overview
 
@@ -87,20 +86,6 @@
 - **AI and ML Integration:** Enhance functionalities with AI and ML algorithms.
 - **International Collaboration:** Support multi-language features and international project standards.
 
-## Contributors
-
-- **Syed Foyez Uddin** - [GitHub](https://github.com/genetxf)
-- **Mirza Alamin Hossen** - [GitHub](https://github.com/alaminmirza)
-
-## References
-
-1. Kerzner, H. Project Management: “A Systems Approach to Planning, Scheduling, and Controlling”, John Wiley & Sons. 2017.
-2. Ralph Moseley, M. T. Savaliya, “Developing Web Applications”, Wiley India Pv. Ltd., 2011.
-3. [IEEE Xplore: Project Management Systems](https://ieeexplore.ieee.org/document/4839866)
-4. [IEEE Xplore: Task Management Systems](https://ieeexplore.ieee.org/document/5718942)
-5. [IEEE Xplore: Collaboration Tools](https://ieeexplore.ieee.org/document/7380291)
-6. [IEEE Xplore: Data Security in Project Management](https://ieeexplore.ieee.org/document/7764421)
-7. [IEEE Xplore: Advanced Project Analytics](https://ieeexplore.ieee.org/document/8862073)
 
 ---
 
