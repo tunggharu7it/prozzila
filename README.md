@@ -87,6 +87,3 @@
 - **International Collaboration:** Support multi-language features and international project standards.
 
 
----
-
-Feel free to contribute, report issues, or suggest features. Your feedback is valuable to us!
